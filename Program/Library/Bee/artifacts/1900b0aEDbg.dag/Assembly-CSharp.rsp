@@ -352,7 +352,9 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
 -analyzer:"D:/2022.3.16f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"D:/2022.3.16f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
-"Assets/Class2nd (Script)/Scripts/NewBehaviourScript.cs"
+"Assets/Class2nd (Script)/Scripts/Bear.cs"
+"Assets/Class4th (GetComponent)/Scripts/Monster.cs"
+"Assets/Class4th (GetComponent)/Scripts/Move.cs"
 -langversion:9.0
 
 /deterministic
